@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen content with proper sizing -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Splash image centered with padding -->
+    <item
+        android:gravity="center"
+        android:left="32dp"
+        android:right="32dp"
+        android:top="100dp"
+        android:bottom="100dp">
+        <bitmap
+            android:src="@mipmap/launch_image"
+            android:gravity="center" />
+    </item>
+</layer-list>
