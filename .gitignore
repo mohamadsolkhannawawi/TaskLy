@@ -44,7 +44,3 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Temporarily ignore source folders; will add per-feature commits for these
-# NOTE: We'll remove these entries when pushing `lib/` and `assets/` per-feature
-lib/
-assets/
